@@ -10,6 +10,10 @@ The focus of this project is on writing **correct and optimized SQL queries** th
 ### Important Note:
 - **This project does not involve executing the queries** since the dataset is only available as an image, not as a usable table. 
 - **It is purely for SQL query practice** and helps to demonstrate how to approach solving SQL problems that might be presented in an interview or on the job.
+- 
+## SQL Queries
+
+All SQL queries used in this project are available in the Baoboo BI anaylst.sql file.
 
 ## Dataset Overview
 
